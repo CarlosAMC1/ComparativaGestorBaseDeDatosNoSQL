@@ -419,18 +419,44 @@ es mucho mejor en comparación con MongoDB, que al igual que Redis,
 \end{itemize}
 
 \subsection{Comparativa entre MongoDB y Redis}
+\begin{itemize}
+    \item   MongoDB tiene protocolos más estrictos para la verificación que Redis.
+	\item   El precio de Redis es muy inferior en comparación con MongoDB.
+	\item   Redis tiene características como el almacenamiento en caché y la persistencia, mientras que MongoDB proporciona características como agregación y reducción de mapas.
+	\item   Redis está escrito en lenguaje C, mientras que MongoDB está escrito en JavaScript, Python y algunos otros.
+	\item   En el caso de la arquitectura de base de datos, Redis comprende clientes Redis y servidores Redis, mientras que la arquitectura MongoDB comprende herramientas binarias de importación y exportación, brújula MongoDB y otras.
+	\item   Redis es más rápido al usar datos de pares clave-valor, es decir, cuando es necesario obtener y configurar algunos datos mediante una clave. Mientras que mongoDB es más rápido para almacenar, recuperar y actualizar documentos JSON complejos y altamente anidados.
+	\item   MongoDB, puede configurar datos automáticamente en varios servidores, este es más rápido cuando los datos son enormes y anidados, ya que Redis no podrá conservar muchos datos debido a la utilización de RAM.
+	\item   Redis tiene una mejor disponibilidad de estructura de datos, admite estructuras de datos como cadenas, hashes, listas, conjuntos, conjuntos ordenados con consultas de rango, mapas de bits, índices geoespaciales con consultas de radio y flujos. Mientras que MongoDB, por otro lado, tiene un tipo de estructura persistente.
+	\item   Redis actúa como un mecanismo de caché eficiente, pero elegir Redis como base de datos requiere gastos generales adicionales. Sin embargo, MongoDB es una base de datos completa con funciones automáticas de fragmentación y replicación.
+	\item   MongoDB es una base de datos orientada a documentos que almacena sus datos en disco. Mientras que Redis, es una base de datos clave valor, cuyo almacenamiento se encuentra basado en la memoria, lo que hace que su procesamiento sea rápido.
+	\item   MongoDB es más simple en caso de requerir difundir o replicar sus datos en diversos servidores de forma automática, cuenta con índices secundarios, transacciones y un marco de agregación.
 
+\end{itemize}
+\subsubsection{¿Cuándo utilizar Redis y Cuándo utilizar MongoDB?}
+Se recomienda utilizar Redis para:
+\begin{itemize}
+    \item 	Manejar el almacenamiento en caché.
+    \item	Administración de sesiones.
+    \item	Si se requiere tener alto rendimiento.
+    \item	Clasificaciones en tiempo real.
+    \item	Chat y mensajería.
+    
+\end{itemize}
+MongoDB se recomienda para:
+\begin{itemize}
+    \item 	Comercio electrónico.
+    \item	Sistemas con altos volúmenes de lecturas.
+    \item	Sistemas de manejo de contenidos y documentos.
+    \item	Aplicaciones móviles.
+    \item	Cuando necesites almacenar datos operacionales como por ejemplo: datos de encuestas, elecciones, registros de usuarios, comentarios, etc.
+      
+\end{itemize}
 \section{Conclusiones}
-El uso de un ORM es una alternativa sumamente efectiva a la hora de trasladar el modelo conceptual(orientado a objetos)
-al esquema relacional nativo de la bas bases de datos SQL. Evita la inclusion de sentencias SQL embebidas en el codigo de la aplicacion, lo que a su vez facilita la migracion
-hacia otro sistemas gestor de bases de datos, Incorpora una capa de abstraccion. Al ser realizado, en esta capa, de manera automatica la conversion de 
-instrucciones orientadas a objetos, a sentencias SQL, minimiza la ocurrencia de errores humanos.
 
-De cualquier modo, utilizar un ORM no debe ser considerado una panacea, sino que debe usarse a discrecion; teniendo en cuenta las 
-particularidades de cada problema a modela. En determinados casos no es recomendable el uso de un ORM,
-sobre todo cuando se imponen tiempos de respuesta minimos o se requiere una menor sobrecarga. En estos casos lo mas conveniente es el uso de un 
-microORM; evitando siempre que sea posible las inyecciones de SQL Inline.
 \section{Recomendaciones}
+
+
 %----------------------------------------------------------------------------------------
 %	REFERENCE LIST
 %----------------------------------------------------------------------------------------
