@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.7)  11 OCT 2021 00:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.7)  11 OCT 2021 16:09
 entering extended mode
 **"c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/GestorDeBaseDeDatosNoSQL.tex"
 (c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/GestorDeBaseDeDatosNoSQL.tex
@@ -371,6 +371,9 @@ LaTeX Warning: Label `-' multiply defined.
 
 LaTeX Warning: Label `-' multiply defined.
 
+
+LaTeX Warning: Label `-' multiply defined.
+
 )
 \openout1 = `GestorDeBaseDeDatosNoSQL.aux'.
 
@@ -587,126 +590,223 @@ Underfull \hbox (badness 1062) in paragraph at lines 428--429
 \T1/pplx/m/n/10 (+20) es más rápido cuando los datos son
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
-[]\T1/pplx/m/n/10 (+20) Raquel Gar-cía (2020) Shard-
+[8]
+Overfull \hbox (8.79619pt too wide) in paragraph at lines 487--488
+\T1/pplx/m/n/10 (-20) https://openwebinars.net/blog/que-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
-\T1/pplx/m/n/10 (+20) ing, ven-ta-jas y desven-ta-jas
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
+[]\T1/pplx/m/n/10 (+20) EcuRed(2011) Mon-goDB. Re-
  []
 
 
-Underfull \hbox (badness 4556) in paragraph at lines 464--465
-\T1/pplx/m/n/10 (+20) de su apli-cación, Re-cu-per-ado
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
+\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 464--465
-\T1/pplx/m/n/10 (+20) 19 de Setiem-bre del 2021, de:
+Overfull \hbox (1.98796pt too wide) in paragraph at lines 488--489
+\T1/pplx/m/n/10 (-20) https://www.ecured.cu/MongoDB 
  []
 
 
-Overfull \hbox (1.05981pt too wide) in paragraph at lines 464--465
-\T1/pplx/m/n/10 (-20) https://blog.mdcloud.es/sharding-
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+[]\T1/pplx/m/n/10 (+20) MongoDB(2018) La base de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--466
-[]\T1/pplx/m/n/10 (+20) Ankush Thakur (2020) ¾Qué
+Underfull \hbox (badness 3271) in paragraph at lines 489--490
+\T1/pplx/m/n/10 (+20) datos líder del mer-cado para
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 465--466
-\T1/pplx/m/n/10 (+20) es Mon-goDB Shard-ing y las
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+\T1/pplx/m/n/10 (+20) apli-ca-ciones mod-er-nas. Re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--466
-\T1/pplx/m/n/10 (+20) mejores prác-ti-cas?, Re-cu-per-
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
  []
 
 
-Overfull \hbox (7.83336pt too wide) in paragraph at lines 465--466
-\T1/pplx/m/n/10 (-20) https://geekflare.com/es/mongodb-
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
+[]\T1/pplx/m/n/10 (+20) Datademia(Noviembre 25,
  []
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 466--467
-[]\T1/pplx/m/n/10 (+20) José Mal-don-ado (2020) Shard-
+Underfull \hbox (badness 2556) in paragraph at lines 490--491
+\T1/pplx/m/n/10 (+20) 2020) ¾Qué es Mon-goDB? Re-
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 466--467
-\T1/pplx/m/n/10 (+20) ing, una opor-tu-nidad para la
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
+\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
  []
 
 
-Overfull \hbox (69.3266pt too wide) in paragraph at lines 466--467
-\T1/pplx/m/n/10 (-20) https://es.cointelegraph.com/explained/sharding-
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
+\T1/pplx/m/n/10 (+20) https://datademia.es/blog/que-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
-\T1/pplx/m/n/10 (+20) an-opportunity-for-distributed-
+Underfull \hbox (badness 1910) in paragraph at lines 491--492
+[]\T1/pplx/m/n/10 (+20) ACENS (2014) Bases de datos
  []
 
 
-Overfull \hbox (7.83336pt too wide) in paragraph at lines 467--468
-\T1/pplx/m/n/10 (-20) https://geekflare.com/es/mongodb-
+Underfull \hbox (badness 1803) in paragraph at lines 491--492
+\T1/pplx/m/n/10 (+20) NoSQL. Qué son y tipos que
  []
 
 
-Overfull \hbox (148.98808pt too wide) in paragraph at lines 468--469
-\T1/pplx/m/n/10 (-20) https://www.lemmingatwork.com/inversiones/criptomonedas/que-
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+\T1/pplx/m/n/10 (+20) nos pode-mos en-con-trar. Re-
  []
 
-[8pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+\T1/pplx/m/n/10 (+20) https://www.acens.com/wp-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+\T1/pplx/m/n/10 (+20) content/images/2014/02/bbdd-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+[]\T1/pplx/m/n/10 (+20) Muradas, Y. (2020) Mon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+\T1/pplx/m/n/10 (+20) goDB vs Re-dis. Re-cu-per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+\T1/pplx/m/n/10 (+20) ado Oc-tubre 11, 2021.
+ []
+
+
+Overfull \hbox (34.61919pt too wide) in paragraph at lines 492--493
+\T1/pplx/m/n/10 (-20) https://openwebinars.net/blog/mongodb-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+[]\T1/pplx/m/n/10 (+20) Garcia,D. (2017) Bases de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+\T1/pplx/m/n/10 (+20) datos NoSQL. In-tro-duc-ción.
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 493--494
+\T1/pplx/m/n/10 (+20) Re-cu-per-ado Oc-tubre 11, 2021.
+ []
+
+
+Overfull \hbox (369.03723pt too wide) in paragraph at lines 493--494
+\T1/pplx/m/n/10 (-20) https://ocw.unican.es/pluginfile.php/2396/course/section/2473/Tema%201.%20NoSQL%20introduccio%CC%81n.pdf 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+[]\T1/pplx/m/n/10 (+20) OpenWebinars(Setiembre 14,
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 495--496
+\T1/pplx/m/n/10 (+20) 2020) Mon-goDB vs Re-dis. Re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
+ []
+
+
+Overfull \hbox (34.61919pt too wide) in paragraph at lines 495--496
+\T1/pplx/m/n/10 (-20) https://openwebinars.net/blog/mongodb-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+[]\T1/pplx/m/n/10 (+20) Moreno,F , Quin-tero,J ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+\T1/pplx/m/n/10 (+20) Rueda,R (2016) Una com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+\T1/pplx/m/n/10 (+20) para-ción de rendimiento en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+\T1/pplx/m/n/10 (+20) tre Or-a-cle y Mon-goDB. Re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+\T1/pplx/m/n/10 (+20) cu-per-ado Oc-tubre 11, 2021.
+ []
+
+
+Overfull \hbox (8.26237pt too wide) in paragraph at lines 496--497
+\T1/pplx/m/n/10 (-20) http://www.scielo.org.co/scielo.php 
+ []
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.469 	\bibitem -
-                  Craig S. Mullins (2018) Â¿CuÃ¡les son los mÃ©todos de esca...pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
+l.502 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.469 	\bibitem -
-                  Craig S. Mullins (2018) Â¿CuÃ¡les son los mÃ©todos de esca...pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
+l.502 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.469 	\bibitem -
-                  Craig S. Mullins (2018) Â¿CuÃ¡les son los mÃ©todos de esca...]pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.469 	\bibitem -
-                  Craig S. Mullins (2018) Â¿CuÃ¡les son los mÃ©todos de esca...
-Underfull \hbox (badness 1635) in paragraph at lines 469--470
-\T1/pplx/m/n/10 (+20) 19 de Setiem-bre del 2021, de:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 469--470
-\T1/pplx/m/n/10 (+20) https://nuodb.com/blog/what-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.470 	\bibitem -
-                 pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.471 	\bibitem -
-                 pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.472 	\bibitem -
-                  [9pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
+l.502 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.477 \end{document}
-                    
-
-] (c:/Users\CarlosM\Desktop\Base De Datos II\II UNIDAD\ComparativaGestorBaseDeDatosNoSQL\build\GestorDeBaseDeDatosNoSQL.aux)
+l.502 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.502 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.502 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.502 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.502 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier (name{cite.-}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.502 \end{document}
+                    ] (c:/Users\CarlosM\Desktop\Base De Datos II\II UNIDAD\ComparativaGestorBaseDeDatosNoSQL\build\GestorDeBaseDeDatosNoSQL.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -714,15 +814,15 @@ Package rerunfilecheck Info: File `GestorDeBaseDeDatosNoSQL.out' has not changed
 (rerunfilecheck)             Checksum: E840C3D376646910C383DB3108CFDB2A;5875.
  ) 
 Here is how much of TeX's memory you used:
- 13974 strings out of 479334
- 216056 string characters out of 2866955
- 569722 words of memory out of 3000000
+ 13978 strings out of 479334
+ 216087 string characters out of 2866955
+ 569723 words of memory out of 3000000
  30874 multiletter control sequences out of 15000+200000
- 458708 words of font info for 279 fonts, out of 3000000 for 9000
+ 458931 words of font info for 282 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,13n,74p,585b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,13n,74p,585b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/CarlosM/AppData/Roaming/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on "c:/Users\CarlosM\Desktop\Base De Datos II\II UNIDAD\ComparativaGestorBaseDeDatosNoSQL\build\GestorDeBaseDeDatosNoSQL.pdf" (9 pages, 546568 bytes).
+Output written on "c:/Users\CarlosM\Desktop\Base De Datos II\II UNIDAD\ComparativaGestorBaseDeDatosNoSQL\build\GestorDeBaseDeDatosNoSQL.pdf" (9 pages, 549090 bytes).
 PDF statistics:
  198 PDF objects out of 1000 (max. 8388607)
  42 named destinations out of 1000 (max. 500000)
