@@ -42,13 +42,92 @@
 %----------------------------------------------------------------------------------------
 %	TITLE SECTION
 %----------------------------------------------------------------------------------------
+\providecommand{\keywords}[1]{
+  \small	
+  \textbf{\textit{\quad \quad Keywords: }} #1}
+
+\providecommand{\pclave}[1]{
+  \small	
+  \textbf{\textit{\quad \quad Palabras Clave: }} #1}
+
+%Idiomas: \selectlanguage{english} \selectlanguage{spanish}
+
+\begin{document}
+
+\title{Trabajo Encargado N°1: Comparativa de Gestores de Base De Datos No Relacionales}
+
+\begin{titlepage}
+\begin{figure}[htb]
+\begin{center}
+\includegraphics[width=5cm]{imagenes/logo.png}
+\end{center}
+\end{figure}
+\vspace*{-0.25in}
+\begin{center}
+\large{UNIVERSIDAD PRIVADA DE TACNA}\\
+\vspace*{-0.025in}
+INGENIERIA DE SISTEMAS  \\
+
+\vspace*{0.5in}
+\begin{large}
+TITULO:\\
+\end{large}
+
+\vspace*{0.1in}
+\begin{Large}
+\textbf{Comparativa de Gestores de Base De Datos No Relacionales} \\
+\end{Large}
+
+\vspace*{0.3in}
+\begin{Large}
+\textbf{CURSO:} \\
+\end{Large}
+
+\vspace*{0.1in}
+\begin{large}
+Base de Datos II\\
+\end{large}
+
+\vspace*{0.3in}
+\begin{Large}
+\textbf{DOCENTE:} \\
+\end{Large}
+
+\vspace*{0.1in}
+\begin{large}
+ Ing. Patrick Cuadros Quiroga\\
+\end{large}
+
+\vspace*{0.2in}
+\vspace*{0.1in}
+\begin{large}
+
+Integrantes: \\
+\begin{flushleft}
+Maldonado Cancapi, Carlos Alejandro\hfill(2018000660) \\
+Huillca Aroni, Alfredo\hfill(2018060903)\\
+Huallpa Huayachani, Alexander Junior\hfill(2018062150)\\
+Anahua Huayhua, Jenny Karen\hfill(2018062150)\\
+Condori Ramirez, Laura Soledad\hfill(2018060907)\\
+Soto Rodriguez, Daniela Duanet\hfill(2015000000)\\
+
+\end{flushleft}
+\end{large}
+
+\vspace*{0.1in}
+\begin{large}
+Tacna - Perú\\
+2021
+\end{large}
+\end{center}
+\end{titlepage}
 
 \setlength{\droptitle}{-4\baselineskip} % Move the title up
 
 \pretitle{\begin{center}\Huge\bfseries} % Article title formatting
 \posttitle{\end{center}} % Article title closing formatting
 \title{Comparativa de Gestores de Bases de Datos No Relacionales} % Article title
-\author{Carlos Maldonado, Alfredo Huillca, Alexander Huallpa, Laura Condori, Jenni Anahua}
+
 \date{\today} % Leave empty to omit a date                     
 \renewcommand{\maketitlehookd}{%
 
@@ -56,7 +135,7 @@
 
 %----------------------------------------------------------------------------------------
 
-\begin{document}
+
 
 % Print the title
 \maketitle
@@ -266,6 +345,80 @@ Son muchas las grandes empresas que hacen uso de este tipo de bases de datos no 
     
 \end{itemize}
 
+\subsection{Gestor de Base de datos-Mongodb}
+Es el sistema de base de datos desarrollada en 10gen por Geir Magnusson 
+y Dwight Merriman. Es una base de datos NoSQL orientada a documentos JSON,
+está escrito en C++, 
+aunque las consultas se hacen pasando objetos JSON como parámetro,
+dado que los propios documentos se almacenan en BSON. Es la base de datos
+NoSQL más utilizada en el mundo. Su nombre viene del término inglés “humongous” 
+(colosal) y puede ser definida como una base de datos documental sin esquema, 
+escalable y de alto rendimiento. Al ser un proyecto de código abierto, sus binarios
+están disponibles para los sistemas operativos Windows, GNU/Linux, OS X y Solaris
+y es usado en múltiples proyectos
+
+\subsubsection{Principales Características en MongoDB}
+\begin{itemize}
+    \item   Consultas ad hoc. MongoDb se puede realizar todo tipo de consultas. Por ejemplo, se puede hacer búsqueda por campos, consultas de rangos y expresiones regulares. Además, estas consultas pueden devolver un campo específico del documento.
+    \item	Indexación. El concepto de índices en MongoDB es similar al empleado en bases de datos relacionales, con la diferencia de que cualquier campo documentado puede ser indexado y añadir múltiples índices secundarios.
+    \item	Replicación. MongoDB soporta el tipo de replicación primario-secundario. De este modo, mientras podemos realizar consultas con el primario, el secundario actúa como réplica de datos en solo lectura a modo copia de seguridad con la particularidad de que los nodos secundarios tienen la habilidad de poder elegir un nuevo primario en caso de que el primario actual deje de responder.
+    \item	Balanceo de carga. MongoDB se puede ejecutar de manera simultánea en múltiples servidores, ofreciendo un balanceo de carga o servicio de replicación de datos, de modo que podemos mantener el sistema funcionando en caso de un fallo del hardware.
+    \item	Almacenamiento de archivos. MongoDB puede ser utilizado también como un sistema de archivos. Esta funcionalidad, llamada GridFS e incluida en la distribución oficial, permite manipular archivos y contenido.
+    \item	Ejecución de JavaScript del lado del servidor. MongoDB tiene la capacidad de realizar consultas utilizando JavaScript, haciendo que estas sean enviadas directamente a la base de datos para ser ejecutadas.
+    \item	Base de datos distribuida con gran escalabilidad vertical y horizontal. La escalabilidad vertical es la posibilidad de aumentar los recursos relacionados con la memoria o la CPU del servidor en el que está MongoDB. La escalabilidad horizontal es la posibilidad de crear diferentes nodos, que permiten aumentar la disponibilidad de la aplicación conforme el volumen de los datos o el número de accesos a dicha base datos aumenta.
+    
+\end{itemize}
+\subsubsection{Ventajas de MongoDB}
+\begin{itemize}
+    \item   Es ideal para entornos con pocos recursos de computación
+    \item   Es una herramienta con un coste bajo
+    \item   Tiene una gran documentación
+    \item   Es un complemento perfecto para JavaScript
+    \item   Validación de documentos
+    \item   Motores de almacenamiento integrado
+    \item   Menor tiempo de recuperación ante fallos
+    
+\end{itemize}
+\subsubsection{Desentajas de MongoDB}
+\begin{itemize}
+    \item    No es una base de datos adecuada para aplicaciones con transacciones complejas
+    \item   Es una tecnología joven
+    \item   No tiene Joins para consultas
+    
+\end{itemize}
+\subsection{Gestor de Base de Datos-Redis}
+Redis es un almacén de estructura de datos en memoria que 
+funciona a la vez como base de datos. Una de las principales
+ características de Redis es que contiene todo tipo de estructura
+  de datos como listas, mapas, cadenas, índices espaciales y flujos. 
+  Tiene una licencia de código abierto y también está vinculado a la computación.
+   Redis está escrito en lenguaje C y 
+también está disponible para Linux, Windows, BSD y algunos otros.
+\subsubsection{Las principales ventajas de Redis son:}
+\begin{itemize}
+    \item   Es muy eficaz en el almacenamiento en caché, lo que ayuda a los desarrolladores a crear estructuras de datos muy complejas.
+    \item	El sistema de red de mensajes de Redis es altamente eficiente, lo que lo ayuda a replicarse en diferentes sistemas.
+    \item	El proceso de configuración e instalación de Redis es bastante simple y fácil de entender.
+    \item	La velocidad y la eficiencia de Redis son muy altas en caso de rendimientos de latencia más altos.
+    
+\end{itemize}
+El rendimiento de Redis en el caso de cargas de trabajo variables
+es mucho mejor en comparación con MongoDB, que al igual que Redis,
+ es una base de datos NoSQL. Redis se usa ampliamente en el ecosistema
+  empresarial y de inicio en diferentes conjuntos de aplicaciones. Sobre
+   la base de las pruebas de YCSB, se descubrió que Redis tiene una buena 
+   tasa de rendimiento.
+
+
+\subsubsection{Las diversas desventajas de Redis son:}
+\begin{itemize}
+    \item   Proporciona almacenamiento obligatorio a todos los datos dados debido a su principio.
+    \item	No proporciona ninguna base para facilitar la división de roles y deberes dentro de la base de datos.
+    \item	No permite el cifrado en el cable.
+    
+\end{itemize}
+
+\subsection{Comparativa entre MongoDB y Redis}
 
 \section{Conclusiones}
 El uso de un ORM es una alternativa sumamente efectiva a la hora de trasladar el modelo conceptual(orientado a objetos)

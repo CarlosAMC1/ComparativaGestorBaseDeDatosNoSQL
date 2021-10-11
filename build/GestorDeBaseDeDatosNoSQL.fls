@@ -665,9 +665,25 @@ OUTPUT c:\Users\CarlosM\Desktop\Base De Datos II\II UNIDAD\ComparativaGestorBase
 INPUT c:\Users\CarlosM\Desktop\Base De Datos II\II UNIDAD\ComparativaGestorBaseDeDatosNoSQL\build\GestorDeBaseDeDatosNoSQL.out
 INPUT c:\Users\CarlosM\Desktop\Base De Datos II\II UNIDAD\ComparativaGestorBaseDeDatosNoSQL\build\GestorDeBaseDeDatosNoSQL.out
 OUTPUT c:\Users\CarlosM\Desktop\Base De Datos II\II UNIDAD\ComparativaGestorBaseDeDatosNoSQL\build\GestorDeBaseDeDatosNoSQL.out
+INPUT .\imagenes\logo.png
+INPUT .\imagenes\logo.png
+INPUT imagenes\logo.png
+INPUT .\imagenes\logo.png
+INPUT .\imagenes\logo.png
+INPUT .\imagenes\logo.png
+INPUT .\imagenes\logo.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT C:\Users\CarlosM\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
+INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
 INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pplx.fd
 INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pplx.fd
 INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pplx.fd
@@ -710,10 +726,6 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\CarlosM\AppData\Local\MiKTeX\pdftex\config\pdftex.map
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\CarlosM\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplrc9e.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
