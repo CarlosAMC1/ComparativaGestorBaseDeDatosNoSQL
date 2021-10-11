@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1633927482 "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/GestorDeBaseDeDatosNoSQL.tex" "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/build/GestorDeBaseDeDatosNoSQL.pdf" "GestorDeBaseDeDatosNoSQL" 1633927485
+["pdflatex"] 1633927639 "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/GestorDeBaseDeDatosNoSQL.tex" "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/build/GestorDeBaseDeDatosNoSQL.pdf" "GestorDeBaseDeDatosNoSQL" 1633927642
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136790254 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/palatino/pplb9e.tfm" 1136790254 5972 0c64c4f5128ecc01ce53c9f2da598834 ""
@@ -102,19 +102,19 @@
   "C:/Users/CarlosM/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/CarlosM/AppData/Roaming/MiKTeX/tex/latex/titlesec/titlesec.sty" 1625497667 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "C:/Users/CarlosM/AppData/Roaming/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "GestorDeBaseDeDatosNoSQL.tex" 1633927479 26158 65cd42f0f448a1c527bc05ab21cda146 ""
-  "build/GestorDeBaseDeDatosNoSQL.aux" 1633927484 4775 a966643ba4bb16c4a823af0b48049c71 "pdflatex"
-  "build/GestorDeBaseDeDatosNoSQL.out" 1633927484 5533 16b9b1f46a852d9e5c52635baaf0cca9 "pdflatex"
-  "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/GestorDeBaseDeDatosNoSQL.tex" 1633927479 26158 65cd42f0f448a1c527bc05ab21cda146 ""
-  "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/build/GestorDeBaseDeDatosNoSQL.aux" 1633927484 4775 a966643ba4bb16c4a823af0b48049c71 ""
+  "GestorDeBaseDeDatosNoSQL.tex" 1633927639 26158 2b97e1be1d54de8fa94a8554967f19c4 ""
+  "build/GestorDeBaseDeDatosNoSQL.aux" 1633927642 4775 a966643ba4bb16c4a823af0b48049c71 "pdflatex"
+  "build/GestorDeBaseDeDatosNoSQL.out" 1633927642 5533 16b9b1f46a852d9e5c52635baaf0cca9 "pdflatex"
+  "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/GestorDeBaseDeDatosNoSQL.tex" 1633927639 26158 2b97e1be1d54de8fa94a8554967f19c4 ""
+  "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/build/GestorDeBaseDeDatosNoSQL.aux" 1633927642 4775 a966643ba4bb16c4a823af0b48049c71 ""
   "imagenes/img1.png" 1633924553 128734 f9ac09d9a786de4a4e750bac2ea5c4d5 ""
   "imagenes/img2.png" 1633924562 96904 254b3c30c80a80cccbebabfcb06d15ed ""
   "imagenes/img3.png" 1633924571 165874 798ab86113284e7efc41b897c45aeb43 ""
   "imagenes/logo.png" 1633926410 56115 9f802c9b63477013a62ae6a042414454 ""
   (generated)
+  "build/GestorDeBaseDeDatosNoSQL.aux"
   "build/GestorDeBaseDeDatosNoSQL.pdf"
   "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/build/GestorDeBaseDeDatosNoSQL.pdf"
+  "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/build/GestorDeBaseDeDatosNoSQL.log"
   "build/GestorDeBaseDeDatosNoSQL.log"
   "build/GestorDeBaseDeDatosNoSQL.out"
-  "build/GestorDeBaseDeDatosNoSQL.aux"
-  "c:/Users/CarlosM/Desktop/Base De Datos II/II UNIDAD/ComparativaGestorBaseDeDatosNoSQL/build/GestorDeBaseDeDatosNoSQL.log"
